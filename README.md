@@ -1,9 +1,9 @@
-# LembreMed
+# AlertSaude-
 
 Aplicativo para controle e lembrete de medicamentos.
 
 ## 🩺 Descrição
-O **LembreMed** ajuda o usuário a organizar seus medicamentos e não esquecer os horários das doses.  
+O **AlertSaude** ajuda o usuário a organizar seus medicamentos e não esquecer os horários das doses.  
 Com uma interface simples e intuitiva, o app permite cadastrar usuários, realizar o login, cadastro de medicamentos, listagem de medicamento e detalhes.
 
 ## 🚀 Funcionalidades
@@ -25,7 +25,7 @@ Facilitar o acompanhamento do uso de medicamentos, garantindo que o usuário ten
 ## 📦 Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Biajo44/LembreMed.git
+   
 
 Projeto desenvolvindo por Joelma Beatriz 👩‍💻
 Estudante de analise e desenvolvimento de sistema
