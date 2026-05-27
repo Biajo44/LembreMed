@@ -27,5 +27,5 @@ Facilitar o acompanhamento do uso de medicamentos, garantindo que o usuário ten
    ```bash
    git clone https://github.com/Biajo44/LembreMed.git
 
-Projeto desenvolvindo por Joelma Beatriz 👩‍💻\n
-estudante de analise e desenvolvimento de sistema
+Projeto desenvolvindo por Joelma Beatriz 👩‍💻
+Estudante de analise e desenvolvimento de sistema
