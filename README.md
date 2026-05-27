@@ -25,6 +25,7 @@ Facilitar o acompanhamento do uso de medicamentos, garantindo que o usuário ten
 ## 📦 Como executar
 1. Clone este repositório:
    ```bash
+   https://github.com/Biajo44/AlertSaude-.git
    
 
 Projeto desenvolvindo por Joelma Beatriz 👩‍💻
